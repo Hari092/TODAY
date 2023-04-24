@@ -1,0 +1,18 @@
+.box{
+    background-color: rgb(240, 240, 242);
+    height: 400px;
+    width: 250px;
+}
+.row1{
+    display: flex;
+    column-gap: 10%;
+    margin: 100px;
+}
+h2{
+    padding: 10px 10px;
+    color: rgb(40, 16, 118);
+    size: 20px;
+}
+p{
+    padding: 8px 8px;
+}
